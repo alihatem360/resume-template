@@ -28,7 +28,7 @@ export const Resume: React.FC = () => {
 
       <body>
         <div id="layout">
-          <h1 id="name">John Doe</h1>
+          <h1 id="name">Ali Hatem Ramadan</h1>
           <p id="bio">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -176,14 +176,14 @@ export const Resume: React.FC = () => {
               bullets={[
                 "HTML, CSS",
                 "React.js",
-                "JavaScript, Typescript",
-                "Bundlers (Webpack, Parcel, Vite)",
-                "Express.js, Node.js (CLI apps)",
-                "OOP, SOLID, Patterns",
-                "Testing",
-                "CI/CD",
-                "Agile, Scrum",
-                "UX, Animations",
+                "JavaScript",
+                "Bundlers (Vite)",
+             
+                "OOP, SOLID",
+              
+             
+               
+               
               ]}
             />
           </Section>
